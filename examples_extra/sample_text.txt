@@ -1,0 +1,2 @@
+Bonjour, je m'appelle Li Yangyang.
+Nous construisons un agent de traduction avec contrainte de terminologie.
